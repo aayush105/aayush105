@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Shrestha</h1>
 <h3 align="center">I'm a Computer Engineering Student.</h3>
 
-- 🔭 I’m currently working on **Major Project**
+- 🔭 I’m currently working on "Hand Drawn Circuit to Digital Circuit" Makor Project
 
 - 🌱 I’m currently learning **MERN**
 
