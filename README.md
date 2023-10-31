@@ -20,6 +20,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=amazonwebservices,bootstrap,c,cpp,html,css,javascript" alt="Languages and Tools Icons" />
-<img src="https://skillicons.dev/icons?i=django,flask,express,git,heroku,photoshop,illustrator" alt="Languages and Tools Icons" />
+<img src="https://skillicons.dev/icons?i=django,java,express,git,heroku,photoshop,illustrator" alt="Languages and Tools Icons" />
 <img src="https://skillicons.dev/icons?i=linux,matlab,mongodb,mysql,nodejs,postman,java" alt="Languages and Tools Icons" />
-<img src="https://skillicons.dev/icons?i=react,redux,sqlite" alt="Languages and Tools Icons" />
+<img src="https://skillicons.dev/icons?i=react,sqlite" alt="Languages and Tools Icons" />
+<br>
+[![An image of @aayush105's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayush105)](https://holopin.io/@aayush105)
