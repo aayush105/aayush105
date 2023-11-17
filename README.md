@@ -27,3 +27,5 @@
 [![An image of @aayush105's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayush105)](https://holopin.io/@aayush105)
 
 ![](https://github-readme-stats.vercel.app/api?username=aayush105&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aayush105&theme=great-gatsby&hide_border=true)
+
