@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Li-Fi**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA, SPRING BOOT**
 
 - 📫 How to reach me **sthaaayush105@gmail.com**
 
