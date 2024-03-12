@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on "Hand Drawn Circuit to Digital Circuit" (Major Project)
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAVA and REACT**
 
 - 👯 I’m looking to collaborate on **Li-Fi**
 
-- 💬 Ask me about **JAVA, SPRING BOOT**
+- 💬 Ask me about **JAVA, SPRING BOOT, REACT**
 
 - 📫 How to reach me **sthaaayush105@gmail.com**
 
