@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=amazonwebservices,bootstrap,c,cpp,html,css,javascript" alt="Languages and Tools Icons" />
-<img src="https://skillicons.dev/icons?i=django,java,express,git,heroku,photoshop,illustrator" alt="Languages and Tools Icons" />
+<img src="https://skillicons.dev/icons?i=python,java,express,git,heroku,photoshop,illustrator" alt="Languages and Tools Icons" />
 <img src="https://skillicons.dev/icons?i=linux,matlab,mongodb,mysql,nodejs,postman,react" alt="Languages and Tools Icons" />
 <img src="https://skillicons.dev/icons?i=sqlite" alt="Languages and Tools Icons" />
 
