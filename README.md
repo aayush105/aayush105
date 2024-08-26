@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next JS and React**
 
-- 👯 I’m looking to collaborate on **Web Application Projects**
-
 - 💬 Ask me about **JAVA, SPRING BOOT, REACT**
 
 - 📫 How to reach me **sthaaayush105@gmail.com**
